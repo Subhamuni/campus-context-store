@@ -52,4 +52,17 @@ export const storeItems = [
     descriptionKh:
       "បង្កើតកម្មវិធីទូរស័ព្ទសម្រាប់ទាំង iOS និង Android ដោយប្រើកូដ Dart តែមួយ។",
   },
+  {
+    id: "item-5",
+    title: "HTML & CSS - Web Design",
+    titleKh: "វគ្គរចនាគេហទំព័រ HTML & CSS",
+    category: "Video Course",
+    categoryKh: "វគ្គសិក្សាវីដេអូ",
+    price: 14.99,
+    icon: "🏞️",
+    description:
+      "Design Responsive and Assessible Web Pages with HTML 5.0 and CSS 3.0",
+    descriptionKh:
+      "រចនាគេហទំព័រដែលបទបែន និងសម្រាប់ជនពិការ ជាមួយ HTML 5.0 និង CSS 3.0",
+  },
 ];
